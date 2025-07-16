@@ -34,7 +34,7 @@ For each company, the tool attempts to find:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/companies-house-matcher.git
+git clone https://github.com/aliladak2007/companies-house-matcher.git
 cd companies-house-matcher
 ```
 
